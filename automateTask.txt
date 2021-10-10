@@ -1,0 +1,11 @@
+
+    Tasks
+        -Taking a timelapse time photo ablum while painting/drawing
+
+
+    Timelapse in Photos
+     -create a timeCapture function
+     -create a function that takes photo every couple of seconds
+     -put it into a folder 
+     -take 100 photos and then stop 
+
